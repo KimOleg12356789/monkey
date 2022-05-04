@@ -147,6 +147,7 @@ $(document).ready(function(){
        document.getElementById('slogan').style.opacity = '1';
     }, 8800);
 
+
     setTimeout(function() {
        document.getElementById('scroll').style.opacity = '1';
     }, 8800);
@@ -201,7 +202,7 @@ $(document).ready(function(){
 
     $(function() {
       $('.marquee').marquee({
-        duration: 5000,
+        duration: 6000,
         direction: 'left',
         startVisible: true,
         duplicated: true
