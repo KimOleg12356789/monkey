@@ -1,0 +1,1290 @@
+
+
+@media screen and (max-height: 700px) {
+	.head-flex {
+		margin-bottom: 146px;
+	}
+
+	.copyright {
+		right: 0;
+	}
+
+	
+}
+
+
+@media screen and (max-width: 1920px) {
+	.footer-title {
+		position: relative;
+		z-index: 1;
+		margin: 0 0 -170px 0;
+	}
+
+	.discord-bt {
+	    text-align: center;
+	    position: relative;
+	    width: 210px;
+	    text-decoration: none;
+	    margin: 0 0 0 78px;
+	}
+}
+
+@media screen and (max-width: 1700px) {
+	.team-body {
+		width: auto;
+		padding: 0 20px 0 0;
+	}
+
+	.team-body-flex {
+		width: 591px;
+	}
+
+	.mt-mobile {
+		width: 95%;
+	}
+
+	.about-block {
+    width: 50%;
+    padding: 90px 0 0 0;
+    background: url(../img/monkey-about.png) 0 49% no-repeat;
+    background-size: cover;
+    height: 890px;
+}
+
+.copyright {
+    font-size: 18px;
+    line-height: 26px;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Gotham-Medium';
+    text-align: right;
+    position: absolute;
+    bottom: 57px;
+    width: 100%;
+    right: 25px;
+}
+
+}
+
+
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1400px) {
+	footer .container {
+		padding: 0;
+	}
+
+	.twitter-bt {
+		    margin: 0 50px 0 0;
+	}
+
+	.about-block {
+		background-size: contain;
+	}
+
+	.about-block {
+    width: 50%;
+    padding: 90px 0 0 0;
+    background: url(../img/monkey-about.png) 0 100% no-repeat;
+    background-size: cover;
+    height: 890px;
+}
+
+
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1340px) {
+	.social-bottom {
+	    display: flex;
+	    justify-content: space-between;
+	    margin: 110px 0 0 0;
+	}
+
+	.roadmap-title span {
+  margin: 0 0 0 -10px;
+}
+
+	.social-bottom {
+		position: relative;
+		z-index: 111l
+	}
+
+	.roadmap-item-wrap7 {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    margin: 0px 0px 41px 0;
+    float: right;
+}
+
+.roadmap-item-body7 {
+    font-size: 18px;
+    font-family: 'Gotham-Medium';
+    line-height: 26px;
+    color: #FFFFFF;
+    width: 280px;
+    opacity: 0.6;
+}
+
+.circle-road {
+    width: 56px;
+    height: 56px;
+    margin: 0 19px 0 0px;
+    background: #C01010;
+    border-radius: 50%;
+}
+
+.road-coming {
+    font-size: 18px;
+    line-height: 26px;
+    font-family: 'Gotham-Medium';
+    text-align: right;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 130px 50px 0 0px;
+}
+
+.roadmap-item-wrap8 {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    margin: 0 0px 1px 270px;
+}
+
+.team-title {
+    display: flex;
+    align-items: center;
+    font-size: 64px;
+    line-height: 80px;
+    letter-spacing: -0.045em;
+ 
+    margin: 0 0 37px 0px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    margin: 0 -6px 0 0px;
+}
+.container {
+    width: 96%;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.section-team .row {
+    margin: 0 0px;
+    justify-content: space-between;
+}
+
+.team-block {
+    width: 31.333333333%;
+    background: #FFC12F;
+    border-radius: 20px;
+    text-align: center;
+    padding: 57px 0 52px 0;
+    margin: 0 0px 24px 0px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    margin: 0 0px 0 0px;
+}
+
+.about-wrap {
+	margin: 0 -20px;
+}
+
+.about-block {
+	margin: 0 0 0 -4px;
+}
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1200px) {
+	.roadmap-section:after {
+		display: none;
+	}
+
+	.about-block2 {
+
+	}
+
+	.roadmap-item-wrap {
+		margin: 0 0 64px 0px;
+	}
+
+	.roadmap-item-wrap2 {
+		margin: 0 0 64px 0px;
+	}
+
+	.roadmap-item-wrap3 {
+		margin: 0 0 64px 0px;
+	}
+
+	.roadmap-item-wrap4 {
+		margin: 0 0 64px 0px;
+	}
+
+	.roadmap-item-wrap5 {
+		margin: 0 0 64px 0px;
+	}
+
+
+	.roadmap-item-wrap6 {
+		margin: 0 0 64px 0px;
+	}
+
+	.roadmap-item-wrap7 {
+		margin: 0 0 64px 0px;
+		float: none;
+	}
+  
+
+  	.roadmap-item-wrap8 {
+		margin: 0 0 64px 0px;
+	}
+
+	.roadmap-item-body {
+		width: 370px;
+	}
+
+	.roadmap-item-body2 {
+		width: 370px;
+	}
+
+	.roadmap-item-body3 {
+		width: 370px;
+	}
+
+	.roadmap-item-body4 {
+		width: 370px;
+	}
+
+
+	.roadmap-item-body5 {
+		width: 370px;
+	}
+
+
+	.roadmap-item-body6 {
+		width: 370px;
+	}
+
+	.roadmap-item-body7 {
+		width: 370px;
+	}
+
+	.roadmap-item-body8 {
+		width: 370px;
+	}
+
+	.roadmap-section {
+		background: #F7B928;
+	}
+
+	.road-coming {
+	    font-size: 18px;
+	    line-height: 26px;
+	    font-family: 'Gotham-Medium';
+	    text-align: left;
+	    color: rgba(255, 255, 255, 0.6);
+	    margin: 50px 50px 0 0px;
+	}
+
+	.roadmap-section {
+		padding: 90px 0 90px 0;
+		height: auto;
+	}
+
+	.flex-title {
+	    font-size: 90px;
+	    line-height: 150px;
+	    text-align: center;
+	    letter-spacing: -0.045em;
+	}
+
+	.about-wrap {
+		display: block;
+	}
+
+	.about-block {
+		width: 100%;
+		background-size: cover;
+	}
+
+	.about-block2 {
+		width: 100%;
+	}
+
+	.text-about {
+	    margin: 43px 0 35px 0;
+	    text-align: center;
+	    width: 100%;
+	}
+
+	.head-flex {
+		margin-bottom: 90px;
+	}
+  	
+  	.about-title-wrap {
+	    padding: 0 0 0 30px;
+	}
+
+	.about-block {
+	    margin: 0 0 0 0px;
+	}
+
+	footer .container {
+		width: 100%;
+	}
+  
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 993px) {
+	.slogan {
+	    width: 518px;
+	    font-size: 76px;
+	    line-height: 92px;
+	    letter-spacing: -0.045em;
+	    margin-bottom: 200px;
+	}
+
+	.flex-model-block:before {
+		display: none;
+	}
+
+	.flex-model-line {
+		display: none;
+	}
+
+	.flex-model-block2:before {
+		display: none;
+	}
+
+	.flex-title2:before {
+		display: none;
+	}
+
+	.flex-model-block3:before {
+		display: none;
+	}
+
+	.flex-model-block2 {
+		margin-bottom: 30px;
+		margin: 0 0 30px 41px;
+	}
+
+	.flex-model-block {
+	    margin: 0 40px 30px 0;
+	}
+
+	.flex-title2 {
+	    position: relative;
+	    font-size: 104px;
+	    line-height: 150px;
+	    text-align: center;
+	    letter-spacing: -0.045em;
+	}
+
+	.container {
+    width: 95%;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+body .options .options{
+	max-width: 50px;
+}
+
+body .options {
+	    width: calc(100% - 0px);
+}
+
+
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 850px) {
+
+
+	.flex-model-mb {
+		width: 	100%;
+		display: flex;
+		justify-content: center;
+	}
+
+	.flex-model-wrap2 {
+		background: #CB1717;
+	}
+
+	.flex-model-mb2 {
+	    width: 100%;
+	    display: flex;
+	    justify-content: center;
+	}
+
+	.flex-model-block {
+    margin: 0 0px 30px 0;
+}
+
+.flex-model-mb2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-model-block2 {
+    margin-bottom: 30px;
+    margin: 0 0 30px 0px !important;
+}
+
+	.flex-model-inner {
+		display: block;
+	}
+
+
+	.container {
+		width: 94%;
+	}
+
+	.flex-model-block {
+	    margin: 0 0px 30px 0;
+	}
+
+	.nav-menu li a {
+	    font-size: 56px;
+	    line-height: 80px;
+	    letter-spacing: -0.045em;
+	    text-decoration: none;
+	    padding: 20px 0 20px 0;
+	    display: flex;
+	    align-items: center;
+	}
+
+	.team-body {
+		padding: 0 20px 0 0;
+	}
+
+	.team-block {
+	    width: 47%;
+	    margin: 0 10px 20px 10px;
+	}
+
+	body .options {
+		    min-width: 1032px;
+    max-width: 202px;
+    width: calc(100% - 100px);
+    height: 400px;
+	}
+
+
+
+	.options-wrap {
+	  overflow: auto;
+	  white-space: nowrap;
+	}
+
+body .options .option {
+	overflow: inherit;
+}
+
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 700px) {
+	.burger {
+		display: block !important;
+	}
+
+	body .options .option.active .checkbox {
+	    left: 14px;
+	} 
+
+	.about-title-wrap {
+    padding: 0 0 0 20px;
+}
+
+	.footer-title span {
+		display: block;
+	}
+
+	.footer-title img {
+		display: none;
+	}
+
+
+	.burger {
+		position: fixed;
+		display: none !important;
+	}
+
+	.burger.sticky {
+		display: block !important;
+	}
+
+	.mt-mobile {
+		position: fixed;
+		top:0;
+	}
+
+	.mt-mobile.sticky {
+		display: block !important;
+	}
+
+	.options-wrap::-webkit-scrollbar {
+	    width: 24px; /* ширина для вертикального скролла */
+	    height: 1px; /* высота для горизонтального скролла */
+	    background-color: #000;
+	    cursor: pointer;
+	    border-radius: 9em;
+	}
+
+	.options-wrap::-webkit-scrollbar-thumb {
+	    background-color: #000;
+	    border-radius: 9em;
+	}
+
+	.checkbox {
+	    position: absolute;
+	    bottom: 18px;
+	    left: 17px;
+	}
+
+	body .options .option.active {
+
+	    width: 619px;
+
+
+	}
+
+	.team-block {
+	    width: 45%;
+	    margin: 0 10px 20px 10px;
+	}
+
+	.container {
+	    width: 93%;
+	}
+
+
+	header {
+	    position: relative;
+	    padding: 48px 0 0;
+	    height: 510px;
+	    background: #000000;
+	}
+
+	.about-wrap {
+	    margin: 0 -22px;
+	}
+
+	.section__video {
+		display: none;
+	}
+
+	.nav-menu li a {
+		font-size: 32px;
+	}
+
+	.nav-menu li img {
+	    width: 50px;
+	    margin: 0 20px 0 0;
+	}
+
+	.mt-mobile {
+	    width: 100%;
+	}
+
+	.nav-menu li {
+	    padding: 0 0 0 20px;
+	}
+
+	.mt-mobile {
+		height: auto;
+	}
+
+	.about-block2 {
+		display: flex;
+	}
+
+	.burger {
+	    right: 20px;
+	}
+
+	.social-bottom {
+		display: block;
+		padding: 0;
+	}
+
+	.discord-bt {
+		display: block;
+	}
+
+	.twitter-bt {
+		display: block;
+	}
+
+	footer .container {
+		height: auto;
+	}
+
+	.social-bottom {
+		margin: 40px 0 0 0;
+	}
+
+	.discord-bt {
+		margin: 0 auto;
+	}
+
+	.twitter-bt {
+		margin: 160px auto 0 auto;
+	}
+
+	header {
+		background: #000 url(../img/monkey-head-mb.png) 0 0 no-repeat;
+		height: 700px;
+		background-size: cover;
+	}
+
+	.scroll {
+		display: none;
+	}
+
+	.head-flex {
+    	margin-bottom: 310px;
+	}
+
+	.slogan {
+		width: 319px;
+		opacity: 1;
+	}
+
+	.logo {
+		opacity: 1;
+	}
+
+	.twitter {
+		opacity: 1;
+	}
+
+	body {
+		overflow: inherit;
+	}
+
+	.discord {
+		opacity: 1;
+	}
+
+	.scroll {
+		opacity: 1;
+	}
+
+
+
+	.footer-title {
+	    position: relative;
+	    z-index: 1;
+	    margin: 0 0 0 40px;
+	    text-align: left;
+	    font-size: 80px;
+	    line-height: 100px;
+	    width: 320px;
+	}
+
+	footer .container:before {
+		display: none;
+	}
+
+	.monkey-ft-mb {
+		display: block;
+	}
+
+	.twitter-bt {
+	    margin: 160px auto 52px auto;
+	}
+
+	.copyright {
+		text-align: center;
+	    bottom: 24px;
+	    width: 100%;
+	    left: 0;
+	}
+
+}
+
+
+@media screen and (max-width: 650px) {
+	.about-item-wrap {
+		display: none;
+	}
+
+	.team-body-flex {
+		width: 311px;
+		padding: 0;
+		line-height: 22px;
+	}
+
+
+	.about-item-wrap2 {
+		display: none;
+	}
+
+	.about-item-wrap3 {
+		display: none;
+	}
+	.about-item-wrap4 {
+		display: none;
+	}
+
+	.nav-orange {
+		background: #F7B928;
+	}
+	 
+
+	.about-block2 {
+		background: #C01010;
+	}
+
+	.about-menu {
+		width: 100%;
+	}
+
+	.nav-menu li img {
+	    width: 32px;
+	    margin: 0 20px 0 0;
+	}
+
+	.about-menu {
+		display: block;
+	}
+}
+
+
+/* Galaxy*/ 
+@media screen and (max-width: 610px) {
+
+.checkbox {
+    position: absolute;
+    bottom: 3px;
+    left: 5px;
+}
+
+
+body .options .option.option15 .checkbox {
+    position: absolute;
+    bottom: 3px;
+    left: 2px;
+}
+
+body .options .option.option15.active .checkbox {
+    position: absolute;
+    bottom: 3px;
+    left: 14px;
+}
+
+body .options .option.option15 {
+    opacity: 0.6;
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: none;
+}
+
+body .options .option.active {
+	margin: 0 4px 0 4px;
+}
+
+
+.checkbox img {
+	width: 30px;
+}
+
+	.team-block {
+	    width: 100%;
+	    margin: 0 0 20px 0;
+	}
+
+	body .options .option {
+		min-width: 40px;
+		    margin: 0 4px 0 4px;
+	}
+
+	body .options .option.active {
+    width: 619px;
+    min-width: 247px;
+}
+
+	body .options {
+    min-width: 548px;
+    max-width: 410px;
+    width: calc(80% - 100px);
+    height: 250px;
+}
+
+	.about-block {
+		background-size: contain;
+	}
+
+	.roadmap-title {
+		font-size: 35px;
+	}
+
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 500px) {
+	.container {
+	    width: 100%;
+	}
+
+	.roadmap-item-media {
+    margin: 0px 0 0 16px;
+}
+
+	.slide-section .container {
+		padding: 0 0 0 15px !important;
+	}
+
+	.section-team .container {
+		padding: 0 0 0 15px !important;
+	}
+
+	.about-wrap {
+		margin: 0;
+	}
+
+	.roadmap-item-title {
+		font-size: 18px;
+	}
+
+	.roadmap-item-title2 {
+		font-size: 18px;
+	}
+
+
+	.roadmap-item-body {
+	    width: 311px;
+	    font-size: 14px;
+	}
+
+	.roadmap-item-body2 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+	.roadmap-item-body3 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+	.roadmap-item-body4 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body5 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body6 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body7 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body8 {
+	    width: 311px;
+	    font-size: 15px;
+	}
+
+	.roadmap-item-circle {
+    width: 32px;
+	    height: 32px;
+	    background: #F7B928;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    font-size: 17px;
+	    line-height: 36px;
+	    text-align: center;
+	    letter-spacing: -0.045em;
+	    border: 2px solid #C01010;
+	    border-radius: 50%;
+	}
+
+	.circle-road {
+	    width: 34px;
+	    height: 34px;
+	}
+
+	.team-title {
+		font-size: 32px;
+		line-height: 40px;
+	}
+
+	.slogan {
+    width: 518px;
+    font-size: 60px;
+    line-height: 88px;
+    letter-spacing: -0.045em;
+    margin-bottom: 200px;
+	}
+
+	.team-body {
+		font-size: 14px;
+		line-height: 23px;
+	}
+
+	.flex-model-wrap {
+		padding: 0;
+	}
+
+	.flex-title {
+		font-size: 84px;
+	}
+
+	.flex-title2 {
+		font-size: 84px;
+	}
+
+
+
+	.model-bl-title {
+		font-size: 14px;
+	}
+
+	.team-block-title {
+		font-size: 18px;
+	}
+
+	.social-bt-title {
+		font-size: 18px;
+	}
+
+	.flex-model-wrap2 {
+		    padding: 80px 30px 56px 30px;
+	}
+
+	.section-team .row {
+		display: none;
+	}
+
+	.slick-slider {
+		display: block !important;
+		margin: 0 0 0 0;
+	}
+
+
+}
+
+
+@media screen and (max-width: 460px) {
+
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 470px) {
+	.learn-more {
+	    background: #F7B928;
+	    border-radius: 8px;
+	    display: none;
+	    text-decoration: none;
+	    text-align: center;
+	    width: 100%;
+	    margin: 0;
+	    padding: 13px 0;
+	    font-size: 20px;
+	    line-height: 32px;
+
+	    color: #C01010;
+	    margin: 0 30px;
+	}
+
+	.options-wrap {
+		padding: 0 0 0 40px;
+	}
+
+	.team-sneak {
+		padding: 0 0 0 52px;
+	}
+
+	.learn-more-wrap2 {
+		display: block;
+	}
+
+	.learn-more-wrap2 .learn-more {
+		display: block;
+		margin: 35px 0 0 0;
+	}
+
+	.nav-menu li img {
+	    width: 33px;
+	    margin: 0 20px 0 0;
+	}
+
+	.team-body {
+		font-family: 'Gotham-Medium';
+	}
+
+	.team-title img {
+		width: 28px;
+	}
+
+	.flex-title {
+		line-height: 90px;
+	}
+
+	.container {
+    	width: 100%;
+	}
+
+	.flex-model-wrap {
+    	padding: 30px 0;
+	}
+
+	.about-block {
+		padding: 40px 0 0 0;
+		height: 640px;
+	}
+
+	.section-model {
+    background: #C01010;
+    padding: 50px 0;
+}
+
+.slide-section {
+	padding: 50px 0 60px 0;
+}
+
+.section-team {
+	padding: 50px 0 30px 0;
+}
+
+footer {
+	padding: 50px 0 0 0;
+}
+
+
+	.roadmap-section:before {
+    	position: absolute;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    bottom: 0;
+	    content: '';
+	    background: url(../img/roadmap-mb.png) right 0 no-repeat;
+	}
+
+	.roadmap-title {
+	    font-size: 35px;
+	    margin: 660px 0 44px 0;
+	}
+
+	.roadmap-item-wrap {
+	    margin: 0 0 40px 0px;
+
+	}
+
+	.roadmap-item-wrap .roadmap-item-circle {
+		margin: 0;
+	}
+
+	.roadmap-item-wrap2 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-item-circle {
+		margin: 20px 0 0 0;
+	}
+
+	.roadmap-item-wrap3 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-section .container {
+		position: relative;
+	}
+
+	.roadmap-section .container:before {
+	    position: absolute;
+	    top: 30px;
+	    left: 35px;
+	    background: #C01010;
+	    width: 2px;
+	    bottom: 170px;
+	    content: '';
+	}
+
+	.roadmap-item-wrap4 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-item-wrap5 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-item-wrap6 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-item-wrap7 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-item-wrap8 {
+	    margin: 0 0 40px 0px;
+	}
+
+	.roadmap-section {
+	    padding: 90px 0 40px 0;
+	    height: auto;
+	}
+
+	.flex-model-mb {
+		    border-bottom: 5px solid #C01010;
+    		margin: 0 30px 30px 30px;
+	}
+
+	.flex-model-mb2 {
+	    border-bottom: 5px solid #C01010;
+	    margin: 0 0px 30px 0px;
+	    padding: 0 30px;
+	}
+
+	.flex-model-mb3 {
+	    border-bottom: 5px solid #C01010;
+	    margin: 0 0px 0 0px;
+	    padding: 0 30px;
+	}
+
+	.flex-model-wrap2 {
+		padding: 32px 0 0 0;
+	}
+
+	.flex-model-block {
+		width: auto;
+	}
+
+	.flex-model-block2 {
+		width: auto;
+	}
+
+	.flex-model-block3 {
+		width: auto;
+	}
+
+	.flex-model-mb {
+	    border-bottom: 5px solid #C01010;
+	    margin: 0 0px 30px 0px;
+	    padding: 0 30px;
+	}
+}
+
+@media screen and (max-width: 400px) {
+.roadmap-section .container:before {
+	    position: absolute;
+	    top: 30px;
+	    left: 30px;
+	    background: #C01010;
+	    width: 2px;
+	    bottom: 170px;
+	    content: '';
+	}
+
+	.about-section .container {
+		padding: 0 !important;
+	}
+
+	footer .container {
+		padding: 0 !important;
+	}
+
+	.container {
+		padding: 0 15px !important;
+	}
+
+	.slick-slider {
+    display: block !important;
+    margin: 0 0 0 0;
+}
+.container {
+    width: 100%;
+    padding: 0;
+}
+
+
+.roadmap-item-media {
+	width: 210px;
+}
+
+
+.roadmap-item-body {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+	.roadmap-item-body2 {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+	.roadmap-item-body3 {
+	    width: 280px;
+	    font-size: 14px;
+	}
+
+	.roadmap-item-body4 {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body5 {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body6 {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body7 {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+
+	.roadmap-item-body8 {
+	    width: 280px;
+	    font-size: 15px;
+	}
+
+}
+
+
+@media screen and (max-width: 373px) {
+
+}
